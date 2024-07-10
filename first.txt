@@ -1,0 +1,10 @@
+
+
+For example, I have a RESTful service called Purchase Service. Should I name my repository:
+
+    purchaserestservice
+    purchase-rest-service
+    purchase_rest_service
+    or something else?
+
+What's the convention? How about in GitHub? Should public repositories follow some standard?
